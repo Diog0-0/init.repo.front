@@ -1,0 +1,7 @@
+{
+  "name": "cbv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
